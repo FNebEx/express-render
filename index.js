@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 
 // Initialize applicaiton
 const app = express();
